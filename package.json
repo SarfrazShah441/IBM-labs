@@ -1,0 +1,24 @@
+{
+  "name": "ibm-labs",
+  "version": "1.0.0",
+  "description": "Final project for ibm backend course",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SarfrazShah441/IBM-labs.git"
+  },
+  "author": "Sarfraz Shah",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SarfrazShah441/IBM-labs/issues"
+  },
+  "homepage": "https://github.com/SarfrazShah441/IBM-labs#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "express-session": "^1.17.3",
+    "json-web-token": "^3.2.0"
+  }
+}
